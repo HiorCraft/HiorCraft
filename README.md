@@ -20,7 +20,6 @@
 
 ---
 
-### ⏱️ Weekly Coding Time
+### ⏱️ My Coding Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![WakaTime stats](https://wakatime.com/share/@dHiorCraft.svg)
