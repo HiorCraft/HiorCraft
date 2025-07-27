@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm a Coding Rookie!</h1>
+<h3 align="center">Currently learning Java, HTML & CSS — one step at a time 🚀</h3>
 
-<!--
-**HiorCraft/HiorCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧩 I'm just getting started with coding!
+- 🌱 Currently learning **Java, HTML, and CSS**
+- 🔧 I love building small projects to practice
+- 💬 I'm always open to advice and tips 😄
+
+---
+
+### 🛠️ My Current Skills (still learning):
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css" alt="skills" />
+</p>
+
+---
+
+### 📊 GitHub Stats (more to come as I grow):
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HiorCraft&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiorCraft&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
