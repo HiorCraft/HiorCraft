@@ -20,12 +20,7 @@
 
 ---
 
-### 📊 GitHub Stats (more to come as I grow):
+### ⏱️ Weekly Coding Time
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HiorCraft&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiorCraft&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
