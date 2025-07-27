@@ -22,4 +22,5 @@
 
 ### ⏱️ My Coding Activity
 
-![WakaTime stats](https://wakatime.com/share/@dHiorCraft.svg)
+
+![WakaTime stats](https://wakatime.com/share/@HiorCraft.svg)
