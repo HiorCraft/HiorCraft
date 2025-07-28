@@ -23,4 +23,4 @@
 ### ⏱️ My Coding Activity
 
 
-https://wakatime.com/share/@HiorCraft/4ea19846-0b78-45a0-95f7-158eb51ec152.svg
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@HiorCraft&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)
