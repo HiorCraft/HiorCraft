@@ -22,4 +22,4 @@
 ### ⏱️ My Coding Activity
 
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@HiorCraft&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HiorCraft&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)
