@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm a Coding Rookie!</h1>
-<h3 align="center">Currently learning C++, Python, Kotlin (KTS) | one step at a time 🚀</h3>
+<h3 align="center">Currently learning C++, Python, Kotlin | one step at a time 🚀</h3>
 
 ---
 
 ### 🧠 About Me
 
 - 🧩 I'm just getting started with coding!
-- 🌱 Currently learning **C++, Python, Kotlin (KTS)**
-- 🔧 I enjoy building small projects to practice
-- 💬 I'm always open to advice and tips 😄
+- 🌱 Currently learning **C++, Python, Kotlin**
+- 🔧 I enjoy building projects and learning about the news
+- 💬 I'm always open to advice and tips 
 ---
 
 ### 🛠️ My Current Skills (still learning):
