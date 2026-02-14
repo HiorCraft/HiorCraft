@@ -21,4 +21,4 @@
 
 My Coding Activity
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@HiorCraft&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)
+[![wakatime](https://wakatime.com/badge/user/a742f2f1-058d-4799-bace-742130c13872.svg)](https://wakatime.com/@a742f2f1-058d-4799-bace-742130c13872)
