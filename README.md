@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm a Coding Rookie!</h1>
-<h3 align="center">Currently learning C++, Python, Kotlin | one step at a time 🚀</h3>
+<h3 align="center">Currently learning Java, Kotlin, Python | one step at a time 🚀</h3>
 
 ---
 
 ### 🧠 About Me
 
 - 🧩 I'm just getting started with coding!
-- 🌱 Currently learning **C++, Python, Kotlin**
+- 🌱 Currently learning **Java, Python, Kotlin**
 - 🔧 I enjoy building projects and learning about the news
 - 💬 I'm always open to advice and tips 
 ---
@@ -14,7 +14,7 @@
 ### 🛠️ My Current Skills (still learning):
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,kotlin" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin" alt="skills" />
 </p>
 
 ---
