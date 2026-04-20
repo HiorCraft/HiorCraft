@@ -6,7 +6,7 @@
 ### 🧠 About Me
 
 - 🧩 I'm just getting started with coding!
-- 🌱 Currently learning **Java, Python, Kotlin**
+- 🌱 Currently learning **Java, MySQL, Kotlin**
 - 🔧 I enjoy building projects and learning about the news
 - 💬 I'm always open to advice and tips 
 ---
@@ -14,7 +14,7 @@
 ### 🛠️ My Current Skills (still learning):
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,kotlin" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,kotlin" alt="skills" />
 </p>
 
 ---
