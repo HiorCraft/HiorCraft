@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Coding Rookie!</h1>
-<h3 align="center">Currently learning Java, Kotlin, Python | one step at a time 🚀</h3>
+<h3 align="center">Currently learning Java, Kotlin, MySQL | one step at a time 🚀</h3>
 
 ---
 
