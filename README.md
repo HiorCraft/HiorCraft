@@ -11,10 +11,10 @@
 - 💬 I'm always open to advice and tips 
 ---
 
-### 🛠️ My Current Skills (still learning):
+### 🛠️ My Languages and Tools (still learning):
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,mysql,php" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,mysql,php,idea" alt="skills" />
 </p>
 
 ---
