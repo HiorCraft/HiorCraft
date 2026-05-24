@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm a Coding Rookie!</h1>
+<h1 align="center">Hi 👋, I'm HiorCraft!</h1>
 <h3 align="center">Currently learning Java, Kotlin, MySQL, php
 
 ---
 
 ### 🧠 About Me
 
-- 🧩 I'm just getting started with coding!
 - 🌱 Currently learning **Java, Kotlin, MySQL, php**
 - 🔧 I enjoy building projects and learning about the news
 - 💬 I'm always open to advice and tips 
