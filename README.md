@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm HiorCraft!</h1>
 
 ### 🧠 About Me
-- 🔧 My biggest project is a Minecraft server network
+- 🔧 I'm new to the coding world
 - 💬 I'm always open to advice and tips
+- ⚙️ I'm the Founder/Owner of @HXO-Development
+
 
 ---
 
