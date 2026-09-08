@@ -11,7 +11,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,react,php,mysql,redis,rabbitmq,gradle&perline=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,py,js,mysql,redis,rabbitmq,gradle&perline=8" alt="skills" />
 </p>
 
 ---
