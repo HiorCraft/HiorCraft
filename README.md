@@ -3,8 +3,7 @@
 ### 🧠 About Me
 - 🔧 I'm new to the coding world
 - 💬 I'm always open to advice and tips
-- ⚙️ I'm the Founder/Owner of @HXO-Development
-
+- ⚙️ I do a lot with Minecraft
 
 ---
 
@@ -21,6 +20,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=idea,phpstorm,vscode" alt="ides" />
 </p>
+
+---
+### 🎥 Social
+
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/hiorcraft_)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4NGBmzrfpa)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hiorcraft)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@hiorcraft.dev)
 
 ---
 
