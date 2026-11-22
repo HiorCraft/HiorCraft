@@ -35,4 +35,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/a742f2f1-058d-4799-bace-742130c13872.svg)](https://wakatime.com/@a742f2f1-058d-4799-bace-742130c13872)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HiorCraft&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)
+<img height="400" src="https://github-stats-extended.vercel.app/api/wakatime?username=HiorCraft&layout=compact&langs_count=8&hide_border=false&bg_color=09090B&title_color=FAFAFA&text_color=A1A1AA&border_color=27272A&border_radius=8" alt="WakaTime" />
